@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/YOUR_USERNAME" target="_blank">YOUR_NAME</a> 🚀</h1>
 
-<!--
-**hubertnshuti/hubertnshuti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/SwamiDrrL8dZ9BfB4q/giphy.gif" width="200" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>"Simplicity is the soul of efficiency."</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ About Me
+
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **[New Skill]**
+- 👯 I’m looking to collaborate on **Open Source**
+- 💬 Ask me about **[Your Skills]**
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-Git-f05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Your Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>

@@ -6,7 +6,7 @@
   <a href="mailto:nshutihubert4@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/hubert-nshuti-ngendahayo/" target="_blank">
+  <a href="https://www.linkedin.com/in/nshuti-ngendahayo-hubert-2a25432b6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>

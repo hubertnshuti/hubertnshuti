@@ -83,5 +83,5 @@ I am a **Software Developer Trainee at The Gym Rwanda**, currently in my 7th mon
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubertnshuti&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubertnshuti&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css&size_weight=0.5&count_weight=0.5" />
 </p>

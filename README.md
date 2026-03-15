@@ -19,7 +19,7 @@
 
 ### About Me
 
-I am a **Software Developer Trainee at The Gym Rwanda**, currently in my 7th month of an intensive software development program. This training is the pivotal chapter of my career, shaping my expertise in modern coding standards and problem-solving.
+I am a **Computer Engineering Student at UR-CST** and a **Software Developer Trainee at The Gym Rwanda**, currently in my 10th month of an intensive software development program. This training is the pivotal chapter of my career, shaping my expertise in modern coding standards and problem-solving.
 
 * **Current Focus:** Building a Livestock Marketplace and Monitoring System.
 * **Education:** Pursuing a BS in Computer and Software Engineering at the University of Rwanda.
@@ -63,18 +63,6 @@ I am a **Software Developer Trainee at The Gym Rwanda**, currently in my 7th mon
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
 </p>
-
----
-
-### Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **Smart Meal Payment System** | Django, MySQL, RFID | IoT system for automating student meal payments. |
-| **Landlords & Tenants** | Web Tech | Platform connecting landlords with potential tenants. |
-| **Livestock Marketplace** | Python, Web | System for farmers to list animals and track health records. |
-
----
 
 ### GitHub Stats
 

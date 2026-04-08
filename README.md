@@ -7,10 +7,6 @@
   <a href="https://www.the-gym.rw/" target="_blank">The Gym Rwanda</a>
 </h3>
 
-<h4 align="center">
-  <strong>Interests:</strong> Scalable Systems • Full-Stack Web • AI • IoT
-</h4>
-
 <p align="center">
   <a href="mailto:nshutihubert4@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />

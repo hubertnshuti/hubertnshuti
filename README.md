@@ -19,11 +19,8 @@
 
 ### About Me
 
-I am a **Computer Engineering Student at UR-CST** and a **Software Developer Trainee at The Gym Rwanda**, currently in my 10th month of an intensive software development program. This training is the pivotal chapter of my career, shaping my expertise in modern coding standards and problem-solving.
-
-* **Current Focus:** Building a Livestock Marketplace and Monitoring System.
-* **Education:** Pursuing a BS in Computer and Software Engineering at the University of Rwanda.
-* **Interests:** IoT, AI, Modern Web Development, and Embedded Systems.
+Computer Engineering student @ [UR-CST](https://cst.ur.ac.rw/) | Software Developer Trainee @ [The Gym Rwanda](https://www.the-gym.rw/)  
+Interests: Scalable Systems, Full-Stack Web, AI, IoT
 
 ---
 

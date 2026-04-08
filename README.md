@@ -1,20 +1,27 @@
 <h1 align="center">Hubert Nshuti Ngendahayo</h1>
 
-<h3 align="center">Computer Engineering student @ [UR-CST](https://cst.ur.ac.rw/) | Software Developer Trainee @ [The Gym Rwanda](https://www.the-gym.rw/)</h3>
+<p align="center">
+  Computer Engineering student @ 
+  <a href="https://cst.ur.ac.rw/" target="_blank">UR-CST</a> |
+  Software Developer Trainee @ 
+  <a href="https://www.the-gym.rw/" target="_blank">The Gym Rwanda</a>
+</p>
 
-<h2 align="center"><b>Interests:</b> Scalable Systems, Full-Stack Web, AI, IoT</h2>
+<p align="center">
+  <strong>Interests:</strong> Scalable Systems • Full-Stack Web • AI • IoT
+</p>
 
 <p align="center">
   <a href="mailto:nshutihubert4@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/nshuti-ngendahayo-hubert-2a25432b6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <em>"Passionate about applying AI to build real, impactful solutions."</em>
+  <em>Building real-world solutions with AI and scalable systems.</em>
 </p>
 
 ---

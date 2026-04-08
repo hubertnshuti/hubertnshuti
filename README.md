@@ -75,9 +75,9 @@
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hubertnshuti&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Hubert's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hubertnshuti&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" alt="Hubert's Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubertnshuti&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css&size_weight=0.5&count_weight=0.5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubertnshuti&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=86400" alt="Top Languages" />
 </p>

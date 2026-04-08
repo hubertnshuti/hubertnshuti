@@ -1,15 +1,15 @@
 <h1 align="center">Hubert Nshuti Ngendahayo</h1>
 
-<p align="center">
+<h3 align="center">
   Computer Engineering student @ 
   <a href="https://cst.ur.ac.rw/" target="_blank">UR-CST</a> |
   Software Developer Trainee @ 
   <a href="https://www.the-gym.rw/" target="_blank">The Gym Rwanda</a>
-</p>
+</h3>
 
-<p align="center">
+<h5 align="center">
   <strong>Interests:</strong> Scalable Systems • Full-Stack Web • AI • IoT
-</p>
+</h5>
 
 <p align="center">
   <a href="mailto:nshutihubert4@gmail.com">
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <em>Building real-world solutions with AI and scalable systems.</em>
+  <em>Passionate about using AI to build real-world, impactful solutions.</em>
 </p>
 
 ---

@@ -81,9 +81,6 @@
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
   <img src="https://img.shields.io/badge/Wi--Fi-0052CC?style=for-the-badge&logo=wifi&logoColor=white" />
   <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
-  <img src="https://img.shields.io/badge/JTAG-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenOCD-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Logic_Analyzers-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embedded_Security-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embedded_DevOps-333333?style=for-the-badge" />
 </p>

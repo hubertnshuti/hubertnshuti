@@ -77,7 +77,6 @@
   <img src="https://img.shields.io/badge/Embedded_Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Yocto-2C2255?style=for-the-badge&logo=yocto&logoColor=white" />
   <img src="https://img.shields.io/badge/FreeRTOS-7B3FF2?style=for-the-badge&logo=freertos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zephyr-000000?style=for-the-badge&logo=zephyr&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
   <img src="https://img.shields.io/badge/Wi--Fi-0052CC?style=for-the-badge&logo=wifi&logoColor=white" />
   <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />

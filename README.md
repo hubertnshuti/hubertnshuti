@@ -3,7 +3,7 @@
 <h3 align="center">
   Computer Engineering student @ 
   <a href="https://cst.ur.ac.rw/" target="_blank">UR-CST</a> |
-  Software Developer Trainee @ 
+  Software Developer @ 
   <a href="https://www.the-gym.rw/" target="_blank">The Gym Rwanda</a>
 </h3>
 

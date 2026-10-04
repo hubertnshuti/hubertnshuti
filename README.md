@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <em>Passionate about using AI to build real-world, impactful solutions.</em>
+  <em>Passionate about using AI to build real, impactful solutions.</em>
 </p>
 
 ---

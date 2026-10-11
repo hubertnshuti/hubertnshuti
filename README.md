@@ -2,9 +2,7 @@
 
 <h3 align="center">
   Computer Engineering student @ 
-  <a href="https://cst.ur.ac.rw/" target="_blank">UR-CST</a> |
-  Software Developer @ 
-  <a href="https://www.the-gym.rw/" target="_blank">The Gym Rwanda</a>
+  <a href="https://cst.ur.ac.rw/" target="_blank">UR-CST</a>
 </h3>
 
 <p align="center">
@@ -17,7 +15,7 @@
 </p>
 
 <p align="center">
-  <em>Passionate about using AI to build real, impactful solutions.</em>
+  <em>Driven by building real, impactful solutions.</em>
 </p>
 
 ---
@@ -26,9 +24,10 @@
 
 <h3>Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
@@ -36,7 +35,6 @@
 <p>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
@@ -54,14 +52,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<h3>Cloud & DevOps</h3>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
 <h3>Tools & Platforms</h3>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -69,17 +59,21 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
 <h3>Embedded & IoT</h3>
 <p>
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zephyr_RTOS-6A1B9A?style=for-the-badge&logo=zephyr&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded_Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yocto-2C2255?style=for-the-badge&logo=yocto&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeRTOS-7B3FF2?style=for-the-badge&logo=freertos&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wi--Fi-0052CC?style=for-the-badge&logo=wifi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensors-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Actuators-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embedded_Security-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embedded_DevOps-333333?style=for-the-badge" />
 </p>
